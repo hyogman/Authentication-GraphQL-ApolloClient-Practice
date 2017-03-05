@@ -1,1 +1,3 @@
-# Authentication-GraphQL-ApolloClient-Practive
+# Authentication-GraphQL-ApolloClient-Practice
+
+Help from Stephen Grider 
